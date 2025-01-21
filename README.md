@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazira</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h1 align="left">Hi 👋, I'm Nazira</h1>
+<h3 align="left">Student of Bachelor Science Computer (Software Engineering) 🎓 </h3>
 
 - 👩🏻‍💻 I’m currently working on **Celestica Kulim**
 
