@@ -3,10 +3,10 @@
 
 - Based in **Sungai Petani, Kedah, Malaysia** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/New%20Moon%20Face.png" alt="New Moon Face" width="25" height="25" />
 - I’m currently working on **Celestica Kulim** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" />
-
-- 📖 Part Time Degree Student in **Science Computer at UTM**
+- This world has no guarantees but one chance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Ghost.webp" alt="Ghost" width="25" height="25" />
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
 <p align="left">
 </p>
 
