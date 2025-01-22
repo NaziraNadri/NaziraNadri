@@ -6,7 +6,7 @@
 - This world has no guarantees but one chance <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Ghost.webp" alt="Ghost" width="25" height="25" />
 
 <h3 align="left">Connect with me:</h3>
-<br> https://www.linkedin.com/in/nazira-nadri-9942b2348/<br>
+<h3 <br> https://www.linkedin.com/in/nazira-nadri-9942b2348/<br> </h3>
 <p align="left">
 </p>
 
